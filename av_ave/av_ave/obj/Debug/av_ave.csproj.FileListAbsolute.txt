@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\+\av_ave\av_ave\obj\Debug\av_ave.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\+\av_ave\av_ave\obj\Debug\WinFormsApp1.Form1.resources
+C:\Users\Lenovo\Desktop\+\av_ave\av_ave\obj\Debug\av_ave.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\+\av_ave\av_ave\obj\Debug\av_ave.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\+\av_ave\av_ave\obj\Debug\av_ave.csproj.CoreCompileInputs.cache
